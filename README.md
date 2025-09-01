@@ -1,5 +1,9 @@
 # ChatBot - AI-Powered Chat Application
 
+ChatBot is a modern Android application built with Jetpack Compose that provides an intelligent conversational interface powered by Google's Gemini AI model.
+
+
+
 ## 📱 Features
 - AI-powered chat using Google's Gemini model
 - Modern Jetpack Compose UI
